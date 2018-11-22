@@ -1,0 +1,16 @@
+[
+  "Excercise1_test.py::test_empty",
+  "Excercise1_test.py::test_all",
+  "Excercise1_test.py::test_2x_guitar",
+  "Excercise1_test.py::test_2x_guitar_guitar_strings",
+  "Excercise2_test.py::test_checkout_g_i_p",
+  "Excercise2_test.py::test_checkout_g_g_i_p",
+  "Excercise2_test.py::test_checkout_g_g_i_p_i_p_g",
+  "Excercise3_test.py::test_checkout_with_normal_tier",
+  "Excercise3_test.py::test_checkout_with_silver_tier",
+  "Excercise3_test.py::test_checkout_with_gold_tier",
+  "Excercise3_test.py::test_empty3",
+  "string_calculator2_test.py::test_empty",
+  "string_calculator2_test.py::test_single",
+  "string_calculator2_test.py::test_list"
+]
